@@ -1,0 +1,20 @@
+﻿{
+  "API": {
+    "Email": "aaa@gmail.com",
+    "Password": "123456",
+    "BaseApiUrl": "https://httpbin.org/"
+
+  },
+  "WebUi": {
+    "WebUrl": "https://practicetestautomation.com/practice-test-login/",
+    "WebUserName": "student",
+    "WebPassword": "Password123"
+  },
+  "Mobile": {
+    "ContactName": "בני טסט",
+    "ContactNumber": "0584102220",
+    "appPackage": "com.google.android.contacts",
+    "appActivity": "com.android.contacts.activities.PeopleActivity"
+  }
+}
+
